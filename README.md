@@ -1,4 +1,4 @@
-# 人生追问
+# Henry Ai
 
 这是一个 Obsidian + Quartz v5 的个人知识库站点，已准备部署到 Cloudflare Pages。
 

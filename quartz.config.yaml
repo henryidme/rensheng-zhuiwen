@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 人生追问
+  pageTitle: Henry Ai
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
