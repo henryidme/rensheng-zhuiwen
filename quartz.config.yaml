@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: rensheng-zhuiwen.pages.dev
+  baseUrl: www.subtlo.com
   ignorePatterns:
     - private
     - templates
